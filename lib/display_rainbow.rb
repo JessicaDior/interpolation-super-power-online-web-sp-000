@@ -6,5 +6,5 @@ def display_rainbow(display_rainbow = "colors")
   puts "G:#{display_rainbow[3]}"
   puts "B:#{display_rainbow[4]}"
   puts "I:#{display_rainbow[5]}"
-  puts "V:#{dispaly_rainbow[6]}"
+  puts "V:#{display_rainbow[6]}"
 end

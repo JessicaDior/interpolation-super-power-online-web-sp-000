@@ -1,4 +1,10 @@
-colors = ['R: red', 'O: orange', 'Y: yellow', 'G: green', 'B: blue', 'I: indigo', 'V: violet']
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow(display_rainbow = "colors")
-  puts "#{display_rainbow}"
+  puts "R:#{display_rainbow[0]}"
+  puts "O:#{display_rainbow[1]}"
+  puts "Y:#{display_rainbow[2]}"
+  puts "G:#{display_rainbow[3]}"
+  puts "B:#{display_rainbow[4]}"
+  puts "I:#{display_rainbow[5]}"
+  puts "V:#{dispaly_rainbow[6]}"
 end
